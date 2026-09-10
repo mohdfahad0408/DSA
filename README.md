@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohdfahad0408/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mohdfahad0408/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohdfahad0408/DSA/tree/master/0938-range-sum-of-bst) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohdfahad0408/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mohdfahad0408/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/mohdfahad0408/DSA/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohdfahad0408/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mohdfahad0408/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
