@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohdfahad0408/DSA/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/mohdfahad0408/DSA/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mohdfahad0408/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mohdfahad0408/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/mohdfahad0408/DSA/tree/master/0938-range-sum-of-bst) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohdfahad0408/DSA/tree/master/0938-range-sum-of-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/mohdfahad0408/DSA/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
