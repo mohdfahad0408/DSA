@@ -11,27 +11,24 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>&arr){   
+    TreeNode *prev = nullptr;
+    TreeNode *first = nullptr;
+    TreeNode *second = nullptr;
+
+    void inorder(TreeNode* root){   
         if(root==nullptr)return ;
-        inorder(root->left,arr);
-        arr.push_back(root->val);
-        inorder(root->right,arr);
+        inorder(root->left);
+        if(prev && prev->val>root->val){
+            if(first==nullptr) first=prev;
+            second=root;
+        }
+        prev=root;
+        inorder(root->right);
     }
 
-    void correct(TreeNode* root,int e1,int e2){
-        if(root==nullptr)return ;
-        if(root->val==e1)root->val=e2;
-        else if(root->val==e2)root->val=e1;
-        correct(root->left,e1,e2);
-        correct(root->right,e1,e2);
-    }
+    
     void recoverTree(TreeNode* root) {
-        vector<int>arr,cpy;
-        inorder(root,arr);
-        cpy=arr;
-        sort(cpy.begin(),cpy.end());
-        int i=0;
-        while(arr[i]==cpy[i]) i++;
-        correct(root,arr[i],cpy[i]);
+        inorder(root);
+        swap(first->val,second->val);
     }
 };
