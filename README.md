@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohdfahad0408/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/mohdfahad0408/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohdfahad0408/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0669-trim-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/mohdfahad0408/DSA/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/mohdfahad0408/DSA/tree/master/0239-sliding-window-maximum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/mohdfahad0408/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohdfahad0408/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
