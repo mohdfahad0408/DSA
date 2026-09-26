@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/mohdfahad0408/DSA/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohdfahad0408/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mohdfahad0408/DSA/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohdfahad0408/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohdfahad0408/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohdfahad0408/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/mohdfahad0408/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -169,4 +171,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohdfahad0408/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohdfahad0408/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mohdfahad0408/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
