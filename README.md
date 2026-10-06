@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohdfahad0408/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdfahad0408/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/mohdfahad0408/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mohdfahad0408/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohdfahad0408/DSA/tree/master/0938-range-sum-of-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohdfahad0408/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdfahad0408/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/mohdfahad0408/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 ## DP on Trees
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohdfahad0408/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -125,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/mohdfahad0408/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/mohdfahad0408/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdfahad0408/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mohdfahad0408/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/mohdfahad0408/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/mohdfahad0408/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Stack
 |  |
 | ------- |
