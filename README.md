@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/mohdfahad0408/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/mohdfahad0408/DSA/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdfahad0408/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/mohdfahad0408/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mohdfahad0408/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdfahad0408/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/mohdfahad0408/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Quickselect
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohdfahad0408/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Greedy
+|  |
+| ------- |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/mohdfahad0408/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
 <!---LeetCode Topics End-->
