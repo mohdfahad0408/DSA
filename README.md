@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/mohdfahad0408/DSA/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdfahad0408/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/mohdfahad0408/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/mohdfahad0408/DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -240,4 +241,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/mohdfahad0408/DSA/tree/master/2136-earliest-possible-day-of-full-bloom) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/mohdfahad0408/DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
+## Math
+|  |
+| ------- |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/mohdfahad0408/DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
 <!---LeetCode Topics End-->
